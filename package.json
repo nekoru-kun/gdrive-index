@@ -41,6 +41,7 @@
     "vuex": "^3.4.0"
   },
   "devDependencies": {
+    "@architect/sandbox": "^4.4.2",
     "@intlify/vue-i18n-loader": "^1.0.0",
     "@vue/cli-plugin-babel": "~4.3.0",
     "@vue/cli-plugin-eslint": "~4.3.0",
